@@ -53,7 +53,8 @@ a:hover{
 .caixa {
     border: 2px solid #0000006b; /* Borda da caixa */
     padding: 15px;         /* Espaçamento interno */
-    background-color: #141313ab; /* Cor de fundo */
+    background-image: url(../imagens/tecnologia.jpg);
+    background-size: contain;
     width: 600px;          /* Largura da caixa */
     margin: 20px ;     /* Centralizar na página */
     border-radius: 10px;   /* Bordas arredondadas */
@@ -61,7 +62,8 @@ a:hover{
 .caixa2 {
     border: 2px solid #0000006b; /* Borda da caixa */
     padding: 15px;         /* Espaçamento interno */
-    background-color: #141313ab; /* Cor de fundo */
+    background-image: url(../imagens/tecnologia.jpg);
+    background-size: contain;
     width: 600px;          /* Largura da caixa */
     margin: 20px 0;     /* Centralizar na página */
     border-radius: 10px;   /* Bordas arredondadas */
